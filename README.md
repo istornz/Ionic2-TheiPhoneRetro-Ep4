@@ -30,7 +30,7 @@ Bien entendu, il est parfaitement possible de suivre cet épisode sous Windows, 
 ## Vidéo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=V7OYVuuvlJc"><img src="https://img.youtube.com/vi/V7OYVuuvlJc/0.jpg" alt="Ionic2-TheiPhoneRetro-Episode3"></a>
+  <a href="https://www.youtube.com/watch?v=lI_j3CGM_aA"><img src="https://img.youtube.com/vi/lI_j3CGM_aA/0.jpg" alt="Ionic2-TheiPhoneRetro-Episode4"></a>
 </p>
 
 ## Instructions
