@@ -12,19 +12,20 @@ Alors n'hésite pas à t'abonner ! Merci :blush:
   <img src="http://www.pngall.com/wp-content/uploads/2016/03/Subscribe-PNG-12.png" width="100px" alt="TheiPhoneRetro-Subscribe">
 </a>
 
-Dans cet épisode nous allons voir comment créer des nouvelles vues (pages) mais également comment naviguer entre elles (via navigation controller).
+Dans cet épisode nous allons voir comment envoyer des données (variables, objets) dans de nouvelles vues (pages).
 
-Je vous propose également une explication la plus simple possible concernant les marges en CSS (margin et padding).
+Je vous montre également comment interpréter ces données en utilisant le bind de Angular 2 mais également le très populaire ngIf (permettant d'afficher une balise en fonction d'une condition).
 
 Bien entendu, il est parfaitement possible de suivre cet épisode sous Windows, Mac ou Linux =)
 
 ## Au programme 
 
-- Ajout d'un champ de texte (input).
-- Qu'est-ce qu'une marge en CSS ?
-- Comment débugger un problème d'agencement (CSS).
-- Création d'une nouvelle vue (page).
-- Navigation entre plusieurs vues (via navigation controller).
+- Modélisation d'un formulaire (via ngModel).
+- Transmission de données via une transition push.
+- Qu'est-ce qu'un tableau clé/valeur (explication)
+- Affichage des données envoyées. 
+- Qu'est-ce qu'une condition tertiaire avec exemple.
+- Utilisation de l'attribut ngIf permettant de masquer une balise via une condition.
 
 ## Vidéo
 
