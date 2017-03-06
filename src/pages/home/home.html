@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Home
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-item>
+    <ion-label color="primary" floating>Prenom</ion-label>
+    <ion-input [(ngModel)]="prenom"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label color="primary" floating>Nom</ion-label>
+    <ion-input [(ngModel)]="nom"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-input [(ngModel)]="age" type="number" placeholder="Age"></ion-input>
+  </ion-item>
+
+  <button id="presentButton" ion-button large (tap)="showDetails()">Se présenter</button>
+</ion-content>

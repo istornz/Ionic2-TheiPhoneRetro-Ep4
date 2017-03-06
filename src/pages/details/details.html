@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Details
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <div *ngIf="prenom && nom && age" id="panel-infos">
+    <h4>Bonjour {{ prenom }} !</h4>
+    <h5>Je connais votre nom : {{ nom }}</h5>
+
+    <p>Vous avez actuellement {{ age }} ans !</p>
+
+    <p>La personne est {{ (age < 18) ? 'mineure' : 'majeure' }}</p>
+  </div>
+
+  <div *ngIf="!prenom || !nom || !age" id="panel-error">
+    <h4>Il manque une ou plusieurs données !</h4>
+  </div>
+  
+</ion-content>
